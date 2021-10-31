@@ -4,4 +4,4 @@ These labs are prerequisites to my study of Data Analytics with Python.
 Included are lectures and labs to do with reading and writing to a file also.
 
 
-Further data analytics labs using Numpy will be uploaded in a seperate repository.
+Further data analytics labs using Numpy will be uploaded in another seperate repository.
